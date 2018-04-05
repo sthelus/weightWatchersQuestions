@@ -93,7 +93,7 @@ public class Question2 {
 
         String newPageLocationName = driver.findElement(By.cssSelector("div.location__name > span")).getText();
 
-        if(locationName == newPageLocationName){
+        if(locationName.equals(newPageLocationName)){
             System.out.println("This location name matches the location name on the previous page.");
         }
 
