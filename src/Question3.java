@@ -1,5 +1,11 @@
-import java.util.*;
+import java.util.Scanner;
+import java.util.Random;
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Collections;
 
+//Author: Sidney Thelusma
+//Date: 4/5/18
 
 public class Question3 {
 
