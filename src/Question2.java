@@ -53,7 +53,7 @@ public class Question2 {
         }
 
         if (driver.getTitle().contains("Get Schedules & Times Near You")) {//Point 4
-            System.out.println("Page contains expected string.");
+            System.out.println("Page title contains expected string.");
         } else {
             System.out.println("Page title does not contain expected String.");
         }
