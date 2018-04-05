@@ -21,7 +21,8 @@ public class Question2 {
     //Didn't have time to clean up the profuse driver waits. The question was issued in 8 points
     //Please bear in mind that your IDE may need to be configured correctly to run this. Use the latest
     //chromedriver. Also I made this in Intellij and used the Test annotation from TestNG. Assuming you
-    //run this method using those same resources, everything should check out and pass
+    //run this method using those same resources, everything should check out and pass. The Question
+    //specifies that this exercise has to run as an automated test, so I opted to use the test annotation
 
     //Author: Sidney Thelusma
     //Date: 4/5/18
